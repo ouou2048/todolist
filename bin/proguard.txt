@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:43
+-keep class com.example.todolist.EditToDoItemActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.example.todolist.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.example.todolist.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.example.todolist.NewToDoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.example.todolist.ToDoItemDetailActivity { <init>(...); }
+
